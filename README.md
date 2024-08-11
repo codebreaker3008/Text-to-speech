@@ -1,4 +1,3 @@
-Hands On Tutorial Code for the end-to-end implementation of text-to-video generation webapp.
 
 Prerequisites required for the preparation of the workshop:
 
